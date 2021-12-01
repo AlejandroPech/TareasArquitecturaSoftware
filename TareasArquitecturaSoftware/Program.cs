@@ -10,8 +10,9 @@ namespace TareasArquitecturaSoftware
             //Bridge.MainBridge();
             //Composite.Composite.MainComposite();
             //Observer.Observer.MainObserver();
-            StateClass.StateClass.MainState();
+            //StateClass.StateClass.MainState();
             //Strategy.Strategy.MainStrategy();
+            PatronComportamiento.Coche.MainCoche();
         }
     }
 }
